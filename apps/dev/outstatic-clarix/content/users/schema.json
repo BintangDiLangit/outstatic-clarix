@@ -7,6 +7,12 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "username"
+    },
+    "password": {
+      "required": false,
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Password"
     }
   }
 }
