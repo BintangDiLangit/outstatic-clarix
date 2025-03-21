@@ -1,6 +1,12 @@
 {
-  "title": "Users",
-  "slug": "users",
+  "title": "users",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "username": {
+      "required": true,
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "username"
+    }
+  }
 }
