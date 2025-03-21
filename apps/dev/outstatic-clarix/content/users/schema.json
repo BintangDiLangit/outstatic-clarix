@@ -9,7 +9,7 @@
       "title": "username"
     },
     "password": {
-      "required": false,
+      "required": true,
       "fieldType": "String",
       "dataType": "string",
       "title": "Password"
